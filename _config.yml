@@ -1,0 +1,5 @@
+title: Markdown Articles (Drafts)
+theme: minima
+plugins: []
+exclude: [".github", "README.md", "LICENSE"]
+robots: "noindex, nofollow"
